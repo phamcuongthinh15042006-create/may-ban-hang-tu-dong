@@ -1,4 +1,3 @@
-﻿
 # Số máy 
 maybans = {
     "nuoc": {
@@ -102,6 +101,7 @@ def main():
 
 
 main()
+
 
 
 
