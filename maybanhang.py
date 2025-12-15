@@ -100,8 +100,8 @@ def main():
         lua_chon = mkeys[int(chon)-1]
         tien = mua(lua_chon, tien)
 
-
 main()
+
 
 
 
